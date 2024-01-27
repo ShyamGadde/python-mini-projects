@@ -1,8 +1,32 @@
 # BTCPrice
 
-BTCPrice is a Python command-line tool that allows you to get the current price of Bitcoin in a given currency.
+BTCPrice is a Python command-line tool that fetches the current price of Bitcoin in a specified currency. It's a handy tool for cryptocurrency enthusiasts, traders, and financial analysts.
+
+## Installation
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/ShyamGadde/python-mini-projects.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd python-mini-projects/btcprice
+```
 
 ## Usage
+
+You can use the BTCPrice tool from the command line as follows:
+
+```bash
+python btcprice.py --currency EUR 0.5
+```
+
+This command will output the current price of 0.5 Bitcoin in Euros.
+
+For more information on the available options, use the -h or --help option:
 
 ```bash
 $ python btcprice.py -h
