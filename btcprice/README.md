@@ -26,7 +26,7 @@ python btcprice.py --currency EUR 0.5
 
 This command will output the current price of 0.5 Bitcoin in Euros.
 
-For more information on the available options, use the -h or --help option:
+For more information on the available options, use the `-h` or `--help` option:
 
 ```bash
 $ python btcprice.py -h

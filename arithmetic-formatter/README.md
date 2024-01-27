@@ -33,7 +33,7 @@ This command will output:
   730      3799      88      172
 ```
 
-For more information on the available options, use the -h or --help option:
+For more information on the available options, use the `-h` or `--help` option:
 
 ```bash
 $ python arithmetic_formatter.py -h
